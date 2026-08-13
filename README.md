@@ -26,7 +26,7 @@ towards Simulink, vehicle dynamics, control systems and engineering data analysi
 
 ## Projects
 
-🚧 Currently building my first automotive engineering projects.
+Currently building my first automotive engineering projects.
 
 ## Education
 
